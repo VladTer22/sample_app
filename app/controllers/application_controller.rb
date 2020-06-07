@@ -1,3 +1,3 @@
 class ApplicationController < ActionController::Base
-  #empty
+  include SessionsHelper
 end
