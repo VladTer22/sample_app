@@ -1,1 +1,2 @@
-# Ruby on Rails Tutorial: sample application
+Deployment is here:
+https://pure-sands-74259.herokuapp.com/
